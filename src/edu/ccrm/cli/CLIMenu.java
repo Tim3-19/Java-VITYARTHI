@@ -235,8 +235,8 @@ public class CLIMenu {
 
             // Create sample students with enrollments and grades
             Student csStudent = new Student.Builder("CS001", "24BCE10335")
-                .fullName("Aditya Das")
-                .email("aditya.24bce10335@vitbhopal.ac.in")
+                .fullName("Tim3-19")
+                .email("tim3-19@vitbhopal.ac.in")
                 .department(Department.COMPUTER_SCIENCE)
                 .build();
 

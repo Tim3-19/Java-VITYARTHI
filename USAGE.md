@@ -18,7 +18,7 @@ java -Ddebug=true edu.ccrm.Main
 Located in `test-data/students.csv`:
 ```
 ID,RegNo,FullName,Email,Department
-CS001,24BCE10335,Aditya Das,aditya.das@university.edu,COMPUTER_SCIENCE
+CS001,24BCE10335,Tim3-19,tim3-19@university.edu,COMPUTER_SCIENCE
 EE001,24BCE10234,Tejaswa Sharma,tejaswa.sharma@university.edu,ELECTRICAL_ENGINEERING
 ```
 
