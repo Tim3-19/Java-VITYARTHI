@@ -1,4 +1,4 @@
-# CampusCore (formerly CCRM)
+# CampusCore
 
 A robust Java-based academic management system designed specifically for managing student records, course enrollments, and academic performance tracking. 
 
