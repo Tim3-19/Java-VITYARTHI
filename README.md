@@ -25,7 +25,7 @@ A robust Java-based academic management system designed specifically for managin
 ### Running the Application
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Tim3-19/CampusCore.git
+   git clone https://github.com/Tim3-19/Java-VITYARTHI.git
    cd CampusCore
    ```
 2. **Compile the source code:**
